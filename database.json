@@ -1,0 +1,59 @@
+{
+  "users": {
+    "undefined": {
+      "limit": 25,
+      "lastChat": 1776197381537,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Cero Vitamin C",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "269930373091527@lid": {
+      "limit": 25,
+      "lastChat": 1776230238138,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "Cero Vitamin C",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "69458798354460@lid": {
+      "limit": 25,
+      "lastChat": 1776244813393,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "vel「日本語の先生」edition",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    },
+    "184163919470798@lid": {
+      "limit": 25,
+      "lastChat": 1776260477889,
+      "premium": false,
+      "VIP": false,
+      "registered": false,
+      "name": "M?",
+      "exp": 0,
+      "banned": false,
+      "simi": false
+    }
+  },
+  "groups": {
+    "120363408588426580@g.us": {
+      "lastChat": 1776230854624,
+      "mute": false
+    },
+    "120363407223046189@g.us": {
+      "lastChat": 1776234430676,
+      "mute": false
+    }
+  },
+  "settings": {}
+}

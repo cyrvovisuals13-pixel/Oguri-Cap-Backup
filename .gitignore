@@ -1,0 +1,9 @@
+node_modules
+session
+auth_info
+npm-debug.log
+.env
+tmp
+temp/*.js
+!temp/README.md
+
