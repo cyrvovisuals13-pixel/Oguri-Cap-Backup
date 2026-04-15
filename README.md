@@ -30,29 +30,44 @@
 ## 🛠️ Requirements & Installation (Ubuntu)
 
 ```bash
-# Update & Install Tools
+## Update & Install Tools
 sudo apt update && sudo apt upgrade -y
 sudo apt install nodejs git ffmpeg zip wget curl -y
+```
+---
 
-# Install nvm & Node.js Terbaru
+## Install nvm & Node.js Terbaru
+```
 curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh) | bash
 source ~/.bashrc
 nvm install node
+```
+---
 
-# Clone & Install Script
+## Clone & Install Script
+```
 git clone [https://github.com/YOUR_USERNAME/Oguri-Cap.git](https://github.com/YOUR_USERNAME/Oguri-Cap.git)
 cd Oguri-Cap
 npm install
+```
+---
 
-# Jalankan menggunakan PM2
-pm2 start index.js --name "oguri"
+## Jalankan menggunakan PM2
+```pm2 start index.js --name "oguri"
+```
+---
 
-# Cek Log
+yahahahahhahah
+
+## Cek Log
+```
 pm2 logs oguri
+```
+---
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)    
-`[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)`
+[![License: GPL v3]    
+`[![License: GPL v3]`
 
 
 ## Support original developer
