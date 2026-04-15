@@ -53,11 +53,11 @@ npm install
 ---
 
 ## Jalankan menggunakan PM2
-```pm2 start index.js --name "oguri"
+```
+pm2 start oguri.js
 ```
 ---
 
-yahahahahhahah
 
 ## Cek Log
 ```
@@ -75,4 +75,9 @@ pm2 logs oguri
 * [`Saweria`](https://saweria.co/DikaArdnt)
 
 
-<h4 align="center">Modified By Cer0</h4>
+<h4 align="center">ᵣₑcₒdₑ By Cₑᵣ₀</h4>
+<p align="center">
+<img src="https://i.pinimg.com/736x/a0/42/bf/a042bf768a0bde22f407206292292c1e.jpg" width="50" alt="Logo">
+<br> Recode By Cer0
+</p>
+
